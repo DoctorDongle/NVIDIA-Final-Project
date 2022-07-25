@@ -12,7 +12,7 @@ The algorithm categorizes the patients inputted image as a type of common pet us
 ## Running this project
 
 1. Add a clear still image of a common pet that you would like the project to categorize. Then, when prompted, input the file name of the image. 
-2. You will need to install and add the keras_model.h5 file included within the following ZIP file before running.
+2. You will need to install and add the keras_model.h5 file included within the following ZIP file before running if it is not already there when the program is opened.
 [converted_keras (1).zip](https://github.com/DoctorDongle/RoughDraft2/files/9183703/converted_keras.1.zip)
 
-[View a video explanation here](video link)
+[Video explaining how to setup and run my project:](https://youtu.be/DsbMJsUYAMU)
