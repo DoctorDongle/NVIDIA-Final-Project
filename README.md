@@ -15,4 +15,4 @@ The algorithm categorizes the patients inputted image as a type of common pet us
 2. You will need to install and add the keras_model.h5 file included within the following ZIP file before running if it is not already there when the program is opened.
 [converted_keras (1).zip](https://github.com/DoctorDongle/RoughDraft2/files/9183703/converted_keras.1.zip)
 
-[Video explaining how to setup and run my project:](https://youtu.be/DsbMJsUYAMU)
+[Video explaining how to setup and run my project](https://youtu.be/DsbMJsUYAMU)
