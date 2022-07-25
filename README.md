@@ -1,4 +1,4 @@
-# RoughDraft2
+# Final Project
 # Pet Animal Identifier
 
  The project will identify the type of pet in the image inputted. The project was intended to help veterinarian offices automate their patients check-in process.
